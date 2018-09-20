@@ -3,6 +3,7 @@
 ## Intro
 
 _Goal_
+
 Compare the speed of the major languages used in the data science community (R and Python) to that for a rising star (Julia)
 
 _Languages_
